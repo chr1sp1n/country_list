@@ -1,5 +1,5 @@
 # country_list
 
-Thank you to [keeguon] (https://gist.github.com/keeguon)
+Thank you to [keeguon](https://gist.github.com/keeguon)
 
-[https://gist.github.com/keeguon/2310008]
+[](https://gist.github.com/keeguon/2310008)
