@@ -1,4 +1,4 @@
-# country_list
+# country_list class
 
 Thank you to [keeguon](https://gist.github.com/keeguon)
 
